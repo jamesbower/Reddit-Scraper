@@ -1,5 +1,5 @@
-# Reddit-Scraper
-Reddit Scraper is a Python script that utilizies the PRAW Python library to interact with Reddit's API.
+# 🌐 Reddit-Scraper
+Reddit Scraper is a Python script that utilizes the PRAW Python library to interact with Reddit's API.
 
 ## 👨‍💻 Contact
 
